@@ -1,14 +1,14 @@
 {
-  "name": "Scholarships",
+  "name": "React Starter",
   "version": "0.0.1",
-  "description": "A Scholarships management web application based on needs at UW Foster School of Business. Ideally it will useful for other departments and universities.",
+  "description": "A ReactJS starter ready for TDD.",
   "main": "server.js",
   "scripts": {
     "test": "grunt test"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/UWFosterIT/scholarships"
+    "url": "https://github.com/UWFosterIT/react-starter"
   },
   "keywords": [
     "scholarships",
@@ -45,7 +45,6 @@
     "grunt-mocha-cov": "^0.3.0",
     "grunt-simple-mocha": "^0.4.0",
     "grunt-watchify": "^0.1.0",
-    "grunt-webdriver": "^0.4.8",
     "karma": "^0.12.23",
     "karma-browserify": "^3.0.1",
     "karma-chrome-launcher": "^0.1.4",
