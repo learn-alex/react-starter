@@ -72,6 +72,7 @@
     "react-hot-loader": "^1.2.3",
     "supertest": "^0.15.0",
     "vinyl-paths": "^1.0.0",
+    "wd": "^0.3.11",
     "webpack-dev-server": "^1.7.0"
   },
   "config": {
